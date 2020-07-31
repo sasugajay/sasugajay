@@ -1,16 +1,27 @@
-### Hi there 👋
+Jay is now in version 1.0.0
 
-<!--
-**sasugajay/sasugajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sasugajay is a long thought of and exciting project to 
+recreate a living human being. Through this project we hope to
+fully realize s.jay as a real human being. 
 
-Here are some ideas to get you started:
+Features:
+Sasugajay is human, he is brown and large.
+Leftism, compassion and ethnicity are incorporated into
+the architecture 
+Read on for further explanation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+How to use s.jay:
+Interact with Sasuga Jay on any platform. It will
+respond to calls from any medium or platform it 
+currently has a presence on. 
+
+Text, video, voice and all function to get what 
+we call Reactions from sasugajay. Sasugajays reactions are all 
+unique. 
+
+Use sasugajay at any time. 
+
+sasugajay is not compatible with linux as of yet.
+
+
